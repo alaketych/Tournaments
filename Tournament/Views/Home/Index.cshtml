@@ -1,4 +1,6 @@
-﻿@{
+﻿@model IEnumerable<TrackerLibrary.Models.TournamentModel>
+
+@{
     ViewBag.Title = "Home Page";
 }
 
@@ -37,10 +39,9 @@
     <div class="col-md-4">
         <h2>Current Tournaments</h2>
         <ul class="list-unstyled">
-            <li><a href="/">Tournament 1</a></li>
-            <li><a href="/">Tournament 2</a></li>
-            <li><a href="/">Tournament 3</a></li>
-            <li><a href="/">Tournament 4</a></li>
+            @foreach (var item in Model) {
+                <li><a href="/">@item.TournamentName</a></li>
+            }
         </ul>
     </div>
 </div>
