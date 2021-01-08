@@ -58,3 +58,14 @@ D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\roslyn\System.Buffers.dll
 D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\roslyn\System.Memory.dll
 D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\roslyn\System.Numerics.Vectors.dll
 D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\TrackerLibrary.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\Twilio.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\Dapper.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\TrackerLibrary.pdb
+D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\Twilio.xml
+D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\Dapper.xml
+D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\ASP.NET MVC PROJECTS\Tournament\Tournament\bin\Microsoft.IdentityModel.Tokens.xml
