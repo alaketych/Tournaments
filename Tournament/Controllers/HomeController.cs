@@ -3,11 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using TrackerLibrary;
+using TrackerLibrary.Models;
 
 namespace Tournament.Controllers {
 	public class HomeController : Controller {
 		public ActionResult Index() {
-			return View();
+			List<TournamentModel> tournaments = GlobalConfig.Connection.GetTournament_All();
+
+			return View(tournaments);
 		}
 	}
 }
