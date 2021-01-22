@@ -1,0 +1,17 @@
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Release\TrackerLibrary.dll
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Release\TrackerLibrary.pdb
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Release\Dapper.dll
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Release\Microsoft.IdentityModel.Logging.dll
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Release\Microsoft.IdentityModel.Tokens.dll
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Release\Newtonsoft.Json.dll
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Release\Twilio.dll
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Release\Dapper.xml
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Release\Microsoft.IdentityModel.Tokens.xml
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Release\Newtonsoft.Json.xml
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Release\Twilio.xml
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Release\TrackerLibrary.csprojResolveAssemblyReference.cache
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Release\TrackerLibrary.csproj.CoreCompileInputs.cache
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Release\TrackerLibrary.dll
+E:\Demos\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Release\TrackerLibrary.pdb

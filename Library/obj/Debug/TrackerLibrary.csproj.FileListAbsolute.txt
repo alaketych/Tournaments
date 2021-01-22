@@ -1,0 +1,35 @@
+E:\Temp\TT\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+E:\Temp\TT\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+E:\Temp\TT\TrackerLibrary\bin\Debug\Dapper.dll
+E:\Temp\TT\TrackerLibrary\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Temp\TT\TrackerLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Temp\TT\TrackerLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Temp\TT\TrackerLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Temp\TT\TrackerLibrary\bin\Debug\Twilio.dll
+E:\Temp\TT\TrackerLibrary\bin\Debug\Dapper.xml
+E:\Temp\TT\TrackerLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Temp\TT\TrackerLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\Temp\TT\TrackerLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Temp\TT\TrackerLibrary\bin\Debug\Twilio.xml
+E:\Temp\TT\TrackerLibrary\obj\Debug\TrackerLibrary.csprojResolveAssemblyReference.cache
+E:\Temp\TT\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+E:\Temp\TT\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+E:\Temp\TT\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+D:\ASP.NET MVC PROJECTS\Tournament\Library\bin\Debug\TrackerLibrary.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Library\bin\Debug\TrackerLibrary.pdb
+D:\ASP.NET MVC PROJECTS\Tournament\Library\bin\Debug\Dapper.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Library\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Library\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Library\bin\Debug\Newtonsoft.Json.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Library\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Library\bin\Debug\Twilio.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Library\bin\Debug\Dapper.xml
+D:\ASP.NET MVC PROJECTS\Tournament\Library\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\ASP.NET MVC PROJECTS\Tournament\Library\bin\Debug\Newtonsoft.Json.xml
+D:\ASP.NET MVC PROJECTS\Tournament\Library\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\ASP.NET MVC PROJECTS\Tournament\Library\bin\Debug\Twilio.xml
+D:\ASP.NET MVC PROJECTS\Tournament\Library\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+D:\ASP.NET MVC PROJECTS\Tournament\Library\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC PROJECTS\Tournament\Library\obj\Debug\TrackerLibrary.csproj.CopyComplete
+D:\ASP.NET MVC PROJECTS\Tournament\Library\obj\Debug\TrackerLibrary.dll
+D:\ASP.NET MVC PROJECTS\Tournament\Library\obj\Debug\TrackerLibrary.pdb
